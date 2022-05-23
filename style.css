@@ -29,6 +29,7 @@ h1 {
     width: 800px;
     text-align: center;
     color: #fff;
+    text-shadow: 0px 0px 20px #70ccda;
 }
 
 /* preset container styles - instructors LIVE introduce overflow: hidden */
@@ -39,8 +40,7 @@ h1 {
     overflow: hidden;
 }
 
-/* students style rainbow divs by class and id.
-Reminders: border-radius to make a square into a circle, position absolute.
+/* Exercises - students style rainbow divs by class and id.
 */
 .rainbow {
     position: absolute;
@@ -105,14 +105,14 @@ Reminders: border-radius to make a square into a circle, position absolute.
     border-color: rgb(138,43,226);
 }
 
-/* Homework 1 - activate the rainbow with :hover */
+/* Bonus - activate the rainbow with :hover */
 
 .container:hover {
     opacity: 0.5;
     transition: 1s all linear;
 }
 
-/* Use the <span> tag to color the words in the heading */
+/* Homework 1 - Use the <span> tag to color the words in the heading */
 
 #r {
     color: #FDBCBC;

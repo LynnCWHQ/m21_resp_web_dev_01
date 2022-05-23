@@ -22,7 +22,7 @@ h1 {
 .container {
     width: 800px;
     height: 600px;
-    background-image: url(images/palette-2.png);
+    background-image: url(images/palette.png);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: top center;
