@@ -1,0 +1,16 @@
+Homework 1: Color the Heading Text
+
+Use CSS color codes to color the heading text
+
+Step 1
+In index.html
+    1. In your h1 header, wrap <span> </span> tags around a word, or the letters in a word.
+    2. Give each span tag a unique id. 
+    Hint: Pick id names that match the word you're styling, that way you won't forget which word or letter you're styling when you're working in the CSS file.
+        id="what"
+    You can even wrap span tags around individual letters. You could make the word rainbow into a rainbow of colors!
+
+Step 2
+In style.css:
+    3. Select each span tag, and change the text color to whatever you want. If you've forgotten how to apply color to text, look in a previous project, or look it up online.
+    4. Make sure to use CSS color codes: hexidecimal, RGB, and/or RGB.

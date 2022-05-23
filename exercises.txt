@@ -1,0 +1,5 @@
+1. Add the required HTML structure tags
+2. Add the HTML for the rainbow and link to the CSS
+3. Style the basic shape of the rainbow
+4. Position and size the layers of the rainbow
+5. Use CSS color codes to color the rainbow

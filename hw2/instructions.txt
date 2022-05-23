@@ -1,0 +1,24 @@
+Homework 2
+
+My Favorite Colors
+
+Use div tags, positioning, and CSS color codes to put paint on an artist's palette
+
+Step 1 - Add the HTML
+In index.html:
+1. Inside the .container div, add 5 div tags. 
+2. Give each div tag the same class name.
+3. Give each div tag a unique id.
+
+
+Step 2 - Shape and add color with CSS
+In style.css: 
+1. Select all the new div tags using their shared class name.
+    Set width, height, position and border-radius.
+    Hint: try playing with width and height to make an oval shape.
+2. Select each div by its unique id.
+    Set its top position.
+    Set its left position.
+        You will have to experiment with these values to postion the paint on the palette.
+    Choose your favorite color for the background-color. 
+        Don’t forget to use CSS color codes: hexidecimal, RGB, and/or RGB.
