@@ -22,3 +22,4 @@ In style.css:
         You will have to experiment with these values to postion the paint on the palette.
     Choose your favorite color for the background-color. 
         Don’t forget to use CSS color codes: hexidecimal, RGB, and/or RGB.
+        https://htmlcolorcodes.com/color-picker/
