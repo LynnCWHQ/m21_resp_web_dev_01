@@ -32,7 +32,8 @@ h1 {
     text-shadow: 0px 0px 20px #70ccda;
 }
 
-/* preset container styles - instructors LIVE introduce overflow: hidden */
+/* overflow: hidden 
+hides the bottom half of the circle shaped rainbow divs */
 .container {
     width: 640px;
     height: 300px;
@@ -40,5 +41,14 @@ h1 {
     overflow: hidden;
 }
 
-/* Exercises - students style rainbow divs by class and id.
+/* Exercises -  style rainbow divs by class and id.
 */
+.rainbow {
+    border-width: 20px;
+    /*  ^ Number used to calculate sizes and positions of rainbow divs */
+    border-color: gray;
+    border-style: solid;
+
+
+
+}
