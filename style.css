@@ -49,6 +49,61 @@ hides the bottom half of the circle shaped rainbow divs */
     border-color: gray;
     border-style: solid;
 
+    
+}
 
+#layer-1 {
+    top: 0;
+    left: 0;
+    width: 600px;
+    height: 600px;
+    border-color: gray;
+}
 
+#layer-2 {
+    top: 0;
+    left: 0;
+    width: 600px;
+    height: 600px;
+    border-color: gray;
+}
+
+#layer-3 {
+    top: 0;
+    left: 0;
+    width: 600px;
+    height: 600px;
+    border-color: gray;
+}
+
+#layer-4 {
+    top: 0;
+    left: 0;
+    width: 600px;
+    height: 600px;
+    border-color: gray;
+}
+
+#layer-5 {
+    top: 0;
+    left: 0;
+    width: 600px;
+    height: 600px;
+    border-color: gray;
+}
+
+#layer-6 {
+    top: 0;
+    left: 0;
+    width: 600px;
+    height: 600px;
+    border-color: gray;
+}
+
+#layer-7 {
+    top: 0;
+    left: 0;
+    width: 600px;
+    height: 600px;
+    border-color: gray;
 }
